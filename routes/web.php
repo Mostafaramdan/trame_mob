@@ -19,4 +19,4 @@ Route::get('/', function () {
 
 route::get('test',function(){
     dd('test');
-})
+});
